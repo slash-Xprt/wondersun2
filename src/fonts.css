@@ -1,0 +1,9 @@
+@font-face {
+     font-family: 'Sharpie';
+     src: url('/fonts/Sharpie-Regular.woff2') format('woff2'),
+          url('/fonts/Sharpie-Regular.woff') format('woff'),
+          url('/fonts/Sharpie-Regular.ttf') format('truetype');
+     font-weight: normal;
+     font-style: normal;
+     font-display: swap;
+   }
